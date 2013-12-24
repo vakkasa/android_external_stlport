@@ -19,6 +19,7 @@
 #  define _STLP_OUTERMOST_HEADER_ID 0x3
 #  include <stl/_prolog.h>
 #endif
+#include <cstddef>
 
 // libstdc++ v3, timestamp 20050519 (3.4.4) has __type_traits,
 // libstdc++ v3, timestamp 20060306 (3.4.6) has __type_traits,
